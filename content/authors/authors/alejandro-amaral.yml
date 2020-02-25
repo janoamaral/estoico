@@ -1,0 +1,9 @@
+name: Alejandro Amaral
+bio: |
+  A mysterious man with a unique aura about him. Desarrollador minimalista en la práctica de la filosofía estoica.
+avatar: ./avatars/alejandro-amaral.jpg
+social:
+  - url: https://github.com
+  - url: https://linkedin.com
+  - url: https://stackoverflow.com
+featured: true

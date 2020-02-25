@@ -2,10 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `Novela by Narative`,
     name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
+    siteUrl: `https://estoico.com.ar`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Sitio personal de estoicismo, minimalismo y programación.`,
       maxWidth: 652,
     },
     social: [
@@ -18,16 +18,8 @@ module.exports = {
         url: `https://github.com/narative`,
       },
       {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
         name: `linkedin`,
         url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
       },
     ],
   },
@@ -48,8 +40,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Estoico`,
+        short_name: `Estoico`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
