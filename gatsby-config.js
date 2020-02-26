@@ -1,18 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
+    title: `Estoico`,
+    name: `Estoico`,
     siteUrl: `https://estoico.com.ar`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Sitio personal de estoicismo, minimalismo y programación.`,
+      heading: `Un viaje de estoicismo, minimalismo y programación.`,
       maxWidth: 652,
     },
     social: [
-      {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
       {
         name: `github`,
         url: `https://github.com/narative`,
