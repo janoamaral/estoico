@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Estoico`,
+    title: `Bienvenidos - estoico.com.ar`,
     name: `Estoico`,
     siteUrl: `https://estoico.com.ar`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `Un viaje de estoicismo, minimalismo y programación.`,
     hero: {
       heading: `Un viaje de estoicismo, minimalismo y programación.`,
       maxWidth: 652,
