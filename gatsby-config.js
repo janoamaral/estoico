@@ -11,7 +11,7 @@ module.exports = {
     social: [
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/logico-dev`,
       },
       {
         name: `linkedin`,
@@ -20,6 +20,14 @@ module.exports = {
     ],
   },
   plugins: [
+    {
+      resolve: 'gatsby-plugin-matomo',
+      options: {
+        siteId: '2',
+        matomoUrl: 'https://m.logico.com.ar/',
+        siteUrl: 'https://estoico.com.ar'
+      }
+    }
     {
       resolve: "@narative/gatsby-theme-novela",
       options: {
