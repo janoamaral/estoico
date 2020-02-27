@@ -27,7 +27,7 @@ module.exports = {
         matomoUrl: 'https://m.logico.com.ar/',
         siteUrl: 'https://estoico.com.ar'
       }
-    }
+    },
     {
       resolve: "@narative/gatsby-theme-novela",
       options: {
