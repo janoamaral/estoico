@@ -31,18 +31,67 @@ Y la encontré en YouTube.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dKAwHqxkKbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Mi receta
+### Mi receta.
 
-Acá te comparto mi versión (probada) y que quedó muy buena.
+La receta y los pasos son los mismos que los del video pero con algunas modificaciones. Acá te comparto mi versión (probada) y que quedó muy buena.
+
+#### Ingredientes.
 
 - 1kg de harina 0000.
-- 1/2 litro de agua.
+- 1/2 litro de agua tibia.
 - 1 huevo.
 - 3 cucharadas de azúcar.
 - 10gr de levadura seca (1 sobrecito) / 30gr levadura fresca.
 - 100gr de manteca.
 - 2 cucharadas de sal.
 
+Las cucharadas son las chiquitas de Té de Tramontina, esas de mango de madera,
+cargadas al raz.
+
+#### Preparación.
+
+1. Dejar la manteca a temperatura ambiente **por lo menos 30 minutos antes de
+   empezar la receta**. Alternativamente se puede poner al lado de una hornalla
+   de la cocina encendida para que se ablande (no derretida).
+
+2. En una taza poner la levadura (desmenuzada si es fresca) una cucharada de
+   azucar, la primera de las tres cucharadas de azucar y una cucharada de
+   harina. Revolver hasta que se disuelva todo y dejarla unos 10 minutos. Si a
+   los pasado ese tiempo no levantó espuma, lamento decirte que la levadura no te va a
+   servir. Posiblemente te hayas pasado de temperatura del agua o la levadura
+   estaba mala.
+
+3. Poner el kilo de harina en un bowl y hacer un hueco en el medio.
+
+4. Alrededor del hueco poner las 2 cucharadas restantes de azucar.
+
+5. Cascar el huevo y ponerlo en el medio junto con la levadura y la manteca
+   cortada en trozos.
+
+6. Empezar a integrar los ingredientes, **ir agregando el agua tibia y las dos
+   cucharadas de sal de a poco**. De esta manera nos aseguramos de no matar la
+   levadura.
+
+7. Una vez que estén todos los ingredientes integrados, la volcamos a la mesa y empezamos a **amasar hasta tener una masa lisa y suave**.
+
+8. La volvemos a colocar en el bowl, la tapamos con un repasador y la dejamos
+   **levar por 1 hora** en un lugar calido. Podés encender el horno por un
+   minuto y luego meter el bowl con el repasador.
+
+9. Pasado ese tiempo, volcar la masa, **cortar al medio y
+   esas mitades nuevamente al medio así hasta tener 16 panes**. Con ese tamaño
+   quedan casi del tamaño de pan para hamburguesas.
+
+10. Hacer los bollitos y ponerlos cerca (que no se toquen) en una fuente alta
+    previamente enmantecada.
+
+11. Dejar levar nuevamente por **1 hora en un lugar cálido cubiertos por un
+    repasador**.
+
+12. Precalentar el horno y cocinar los panes a 180º por 20 minutos. Si no tenés termómetro en el horno: precalentá el horno al máximo, metés los panes, bajalo a mínimo y subile la llama un poquito. La idea es que no esté tan caliente para evitar generar corteza en la parte de abajo.
+
+
+Espero que les guste y puedan disfrutar de este exquisito pan.
 
 _See you, space cowboy._
 
