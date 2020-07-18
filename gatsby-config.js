@@ -3,9 +3,9 @@ module.exports = {
     title: `Bienvenidos - estoico.com.ar`,
     name: `Estoico`,
     siteUrl: `https://estoico.com.ar`,
-    description: `Un viaje de estoicismo, minimalismo y programación.`,
+    description: `Bienvenidos al blog personal de Alejandro Amaral`,
     hero: {
-      heading: `Un viaje de estoicismo, minimalismo y programación.`,
+      heading: `Bienvenidos al blog personal de Alejandro Amaral`,
       maxWidth: 652,
     },
     social: [
