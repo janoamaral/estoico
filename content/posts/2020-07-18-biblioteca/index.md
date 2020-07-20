@@ -35,6 +35,7 @@ leyendo la iré actualizando.
 - ★★★★☆ Diarios de Adan y Eva (_Mark Twain_)
 - ★★★☆☆ De la Tierra a la Luna (_Jules Verne_)
 - ★★★☆☆ En las Montañas de la Locura (_H.P. Lovecraft_)
+- ★★★★☆ Los sueños en la casa de la bruja (_H.P. Lovecraft_)
 
 ---
 
