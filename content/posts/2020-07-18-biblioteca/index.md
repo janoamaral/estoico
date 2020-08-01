@@ -22,33 +22,34 @@ leyendo la iré actualizando.
 
 ### 2020
 
-- ★★★★★ Enquiridión (_Epicteto_)
-- ★★★★☆ Silent Hill 2: The Official Novel (_Sadamu Yamashita_)
-- ★★★★☆ Git for Humans (_Alice Bartlett_)
-- ★★☆☆☆ Frankenstein (_Mary Shelley_)
-- ★★★★☆ La Casa Maldita (_H.P. Lovecraft_)
-- ★★★★☆ La Metamorfosis (_Franz Kafka_)
-- ★★★★☆ La Llamada de Cthulhu (_H.P. Lovecraft_)
-- ★★★★★ Rebelión en la Granja (_George Orwell_)
-- ★★★★★ El Extranjero (_Albert Camus_)
-- ★★★☆☆ El Extraño Caso del Doctor Jekyll y el Señor Hyde (_Epicteto_)
-- ★★★★☆ Diarios de Adan y Eva (_Mark Twain_)
-- ★★★☆☆ De la Tierra a la Luna (_Jules Verne_)
-- ★★★☆☆ En las Montañas de la Locura (_H.P. Lovecraft_)
-- ★★★★☆ Los sueños en la casa de la bruja (_H.P. Lovecraft_)
+- ★★★★★ **Enquiridión** (_Epicteto_)
+- ★★★★☆ **Silent Hill 2: The Official Novel** (_Sadamu Yamashita_)
+- ★★★★☆ **Git for Humans** (_Alice Bartlett_)
+- ★★☆☆☆ **Frankenstein** (_Mary Shelley_)
+- ★★★★☆ **La Casa Maldita** (_H.P. Lovecraft_)
+- ★★★★☆ **La Metamorfosis** (_Franz Kafka_)
+- ★★★★☆ **La Llamada de Cthulhu** (_H.P. Lovecraft_)
+- ★★★★★ **Rebelión en la Granja** (_George Orwell_)
+- ★★★★★ **El Extranjero** (_Albert Camus_)
+- ★★★☆☆ **El Extraño Caso del Doctor Jekyll y el Señor Hyde** (_Robert Louis Stevenson_)
+- ★★★★☆ **Diarios de Adan y Eva** (_Mark Twain_)
+- ★★★☆☆ **De la Tierra a la Luna** (_Jules Verne_)
+- ★★★☆☆ **En las Montañas de la Locura** (_H.P. Lovecraft_)
+- ★★★★☆ **Los sueños en la casa de la bruja** (_H.P. Lovecraft_)
+- ★★★★★ **El ser en el umbral** (_H.P. Lovecraft_)
 
 ---
 
 ### 2019
-- ★★★★★ 1984 (_George Orwell_)
-- ★★★★★ How to Be a Stoic Using Ancient Philosophy to Live a Modern Life (_Massimo
+- ★★★★★ **1984** (_George Orwell_)
+- ★★★★★ **How to Be a Stoic Using Ancient Philosophy to Live a Modern Life** (_Massimo
     Pigliucci_)
-- ★★★★☆ The Killing Joke (_Alan Moore_)
-- ★★★☆☆ El Arte de la Guerra (_Sun Tzu_)
-- ★★★★☆ 12 Rules for life: An antidote to chaos (_Jordan Petterson_)
-- ★★★★☆ Watchmen (_Alan Moore_)
-- ★★★☆☆ The Practicing Stoic A Philosophical User's Manual (_Ward Farnsworth_)
-- ★★★★☆ El Cuervo (_Edgar Alan Poe_)
+- ★★★★☆ **The Killing Joke** (_Alan Moore_)
+- ★★★☆☆ **El Arte de la Guerra** (_Sun Tzu_)
+- ★★★★☆ **12 Rules for life: An antidote to chaos** (_Jordan Petterson_)
+- ★★★★☆ **Watchmen** (_Alan Moore_)
+- ★★★☆☆ **The Practicing Stoic A Philosophical User's Manual** (_Ward Farnsworth_)
+- ★★★★☆ **El Cuervo** (_Edgar Alan Poe_)
 
 ---
 
