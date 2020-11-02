@@ -37,6 +37,8 @@ leyendo la iré actualizando.
 - ★★★☆☆ **En las Montañas de la Locura** (_H.P. Lovecraft_)
 - ★★★★☆ **Los sueños en la casa de la bruja** (_H.P. Lovecraft_)
 - ★★★★★ **El ser en el umbral** (_H.P. Lovecraft_)
+- ★★★★★ **The Clean Coder** (_Robert C. Martin_)
+- ★★★★★ **EL Resplandor** (_Stephen King_)
 
 ---
 
