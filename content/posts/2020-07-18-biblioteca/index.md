@@ -35,10 +35,11 @@ leyendo la iré actualizando.
 - ★★★★☆ **Diarios de Adan y Eva** (_Mark Twain_)
 - ★★★☆☆ **De la Tierra a la Luna** (_Jules Verne_)
 - ★★★☆☆ **En las Montañas de la Locura** (_H.P. Lovecraft_)
-- ★★★★☆ **Los sueños en la casa de la bruja** (_H.P. Lovecraft_)
-- ★★★★★ **El ser en el umbral** (_H.P. Lovecraft_)
+- ★★★★☆ **Los Sueños en la Casa de la Bruja** (_H.P. Lovecraft_)
+- ★★★★★ **El Ser en el Umbral** (_H.P. Lovecraft_)
 - ★★★★★ **The Clean Coder** (_Robert C. Martin_)
 - ★★★★★ **EL Resplandor** (_Stephen King_)
+- ★★★★★ **Puerta al Verano** (_Robert A. Heinlein_)
 
 ---
 
