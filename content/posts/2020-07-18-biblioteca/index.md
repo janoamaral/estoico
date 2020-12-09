@@ -40,6 +40,7 @@ leyendo la iré actualizando.
 - ★★★★★ **The Clean Coder** (_Robert C. Martin_)
 - ★★★★★ **EL Resplandor** (_Stephen King_)
 - ★★★★★ **Puerta al Verano** (_Robert A. Heinlein_)
+- ★★★☆☆ **Starship Troopers** (_Robert A. Heinlein_)
 
 ---
 
