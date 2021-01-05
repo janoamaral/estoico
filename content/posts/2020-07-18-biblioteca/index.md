@@ -19,6 +19,9 @@ parece que tuve buen tino.
 Esta es la bibliografía y (humildisimo) puntaje de las obras. A medida que continúe
 leyendo la iré actualizando.
 
+### 2021
+
+- ★★★★★ **Dragón Rojo** (_Thomas Harris_)
 
 ### 2020
 
