@@ -21,6 +21,7 @@ leyendo la iré actualizando.
 
 ### 2021
 
+- ★★★★★ **Stoicism and the Art of Happiness** (_Donald Robertson_)
 - ★★★★★ **Dragón Rojo** (_Thomas Harris_)
 
 ### 2020
