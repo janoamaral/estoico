@@ -21,6 +21,7 @@ leyendo la iré actualizando.
 
 ### 2021
 
+- ★★★★★ **El Forastero Misterioso** (_Mark Twain_)
 - ★★★★★ **Stoicism and the Art of Happiness** (_Donald Robertson_)
 - ★★★★★ **Dragón Rojo** (_Thomas Harris_)
 
