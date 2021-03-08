@@ -6,14 +6,14 @@ hero: ./images/hero.jpg
 excerpt: Mi lista de libros leidos.
 ---
 
-Un poco de historia. Soy (o era) un **consumidor ávido de películas**. Desde 2011 que 
-dejé la TV y pasé a ser 100% internauta. Y con eso pasé a mirar casi una película 
+Un poco de historia. Soy (o era) un **consumidor ávido de películas**. Desde 2011 que
+dejé la TV y pasé a ser 100% internauta. Y con eso pasé a mirar casi una película
 por día. Cómo sabrá (o no, va a ser tema de otro post) **la calidad en general de la
 industria cinematográfica está por el piso**, en particular la estadounidense.
 
 A raíz de esto, a mediados de 2019 **decidí volver a los libros**. Libros y
-comics. Armado con una tablet que no utilizaba y gracias a [Freeditorial](https://freeditorial.com/es/books/search) 
-pude volver al ruedo. Ahora en 2020, con Hollywood (y el mundo) completamente paralizado, 
+comics. Armado con una tablet que no utilizaba y gracias a [Freeditorial](https://freeditorial.com/es/books/search)
+pude volver al ruedo. Ahora en 2020, con Hollywood (y el mundo) completamente paralizado,
 parece que tuve buen tino.
 
 Esta es la bibliografía y (humildisimo) puntaje de las obras. A medida que continúe
@@ -21,6 +21,8 @@ leyendo la iré actualizando.
 
 ### 2021
 
+- ★★★★☆ **The Running Man** (_Stephen King_)
+- ★★★★☆ **Pet Sematary** (_Stephen King_)
 - ★★★★★ **El Forastero Misterioso** (_Mark Twain_)
 - ★★★★★ **Stoicism and the Art of Happiness** (_Donald Robertson_)
 - ★★★★★ **Dragón Rojo** (_Thomas Harris_)
@@ -43,16 +45,17 @@ leyendo la iré actualizando.
 - ★★★★☆ **Los Sueños en la Casa de la Bruja** (_H.P. Lovecraft_)
 - ★★★★★ **El Ser en el Umbral** (_H.P. Lovecraft_)
 - ★★★★★ **The Clean Coder** (_Robert C. Martin_)
-- ★★★★★ **EL Resplandor** (_Stephen King_)
+- ★★★★★ **El Resplandor** (_Stephen King_)
 - ★★★★★ **Puerta al Verano** (_Robert A. Heinlein_)
 - ★★★☆☆ **Starship Troopers** (_Robert A. Heinlein_)
 
 ---
 
 ### 2019
+
 - ★★★★★ **1984** (_George Orwell_)
 - ★★★★★ **How to Be a Stoic Using Ancient Philosophy to Live a Modern Life** (_Massimo
-    Pigliucci_)
+  Pigliucci_)
 - ★★★★☆ **The Killing Joke** (_Alan Moore_)
 - ★★★☆☆ **El Arte de la Guerra** (_Sun Tzu_)
 - ★★★★☆ **12 Rules for life: An antidote to chaos** (_Jordan Petterson_)
@@ -62,9 +65,7 @@ leyendo la iré actualizando.
 
 ---
 
-
 _See you, space cowboy._
-
 
 ### Portada
 
