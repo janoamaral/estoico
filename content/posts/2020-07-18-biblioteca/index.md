@@ -22,6 +22,7 @@ leyendo la iré actualizando.
 ### 2021
 
 - ★☆☆☆☆ **¡Oh, no! ¡Voy a convertirme en zombi!** (_Jason Daniel Greenfield_)
+- ★★★★★ **We Can Remember It For You Wholesale** (_Philip K. Dick_)
 - ★★★★☆ **The Running Man** (_Stephen King_)
 - ★★★★☆ **Pet Sematary** (_Stephen King_)
 - ★★★★★ **El Forastero Misterioso** (_Mark Twain_)
