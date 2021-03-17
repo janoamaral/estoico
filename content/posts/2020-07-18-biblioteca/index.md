@@ -21,6 +21,7 @@ leyendo la iré actualizando.
 
 ### 2021
 
+- ★★★★★ **Este virus que nos vuelve locos** (_Bernard-Henri Lévy_)
 - ★☆☆☆☆ **¡Oh, no! ¡Voy a convertirme en zombi!** (_Jason Daniel Greenfield_)
 - ★★★★★ **We Can Remember It For You Wholesale** (_Philip K. Dick_)
 - ★★★★☆ **The Running Man** (_Stephen King_)
